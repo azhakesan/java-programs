@@ -4,7 +4,7 @@
 package com.programs.thread;
 
 /**
- *
+ * Dead Lock Example
  */
 public class DeadLockExample {
 	public static Object Lock1 = new Object();

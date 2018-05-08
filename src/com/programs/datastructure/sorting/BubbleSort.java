@@ -12,12 +12,7 @@ public class BubbleSort {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		int nums[] = new int[5];
-		nums[0] = 10;
-		nums[1] = 2;
-		nums[2] = 5;
-		nums[3] = 3;
-		nums[4] = 7;
+		int nums[] = { 10, 2, 5, 3, 7 };
 		int len = nums.length;
 		int temp = 0;
 		for (int i = 0; i < len; i++) {
@@ -32,7 +27,6 @@ public class BubbleSort {
 		for (int k = 0; k < nums.length; k++) {
 			System.out.print(" " + nums[k]);
 		}
-
 	}
 
 }
