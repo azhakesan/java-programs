@@ -1,0 +1,31 @@
+# Coding Exercises
+
+### Dynamic Programming
+- [ArrayAddByOne.java](ArrayAddByOne.java)
+- [BockedQueueExample.java](BockedQueueExample.java)
+- [BracketValidator.java](BracketValidator.java)
+- [ConditionExample.java](ConditionExample.java)
+- [DuplicateExample.java](DuplicateExample.java)
+- [ExecuterServiceExample.java](ExecuterServiceExample.java)
+- [FibonacciExample.java](FibonacciExample.java)
+- [FindKthSmallestElement.java](FindKthSmallestElement.java)
+- [FindTwoInteger.java](FindTwoInteger.java)
+- [FirstNonRepeatChar.java](FirstNonRepeatChar.java)
+- [FirstNonRepeatingChar.java](FirstNonRepeatingChar.java)
+- [FirstReoccuringChar.java](FirstReoccuringChar.java)
+- [FizzBuzz.java](FizzBuzz.java)
+- [MyPrimeNumCheck.java](MyPrimeNumCheck.java)
+- [PolindromeExample.java](PolindromeExample.java)
+- [ReverseArrayNumber.java](ReverseArrayNumber.java)
+- [ReverseNumberExample.java](ReverseNumberExample.java)
+- [ReverseS.java](ReverseS.java)
+- [RotateAnArray.java](RotateAnArray.java)
+- [StaticCounter.java](StaticCounter.java)
+- [WinnerElection.java](WinnerElection.java)
+
+### Data Structure
+- [LinkedListExample.java](LinkedListExample.java)
+- [LinkedListInsertElementInSorted.java](LinkedListInsertElementInSorted.java)
+- [LinkedListMiddleElement.java](LinkedListMiddleElement.java)
+- [LinkedListPairwiseSwap.java](LinkedListPairwiseSwap.java)
+- [LinkedListRemoveDuplicate.java](LinkedListRemoveDuplicate.java)
